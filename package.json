@@ -1,0 +1,22 @@
+{
+  "name": "waifu-image-generator",
+  "version": "1.0.0",
+  "description": "Sebuah website untuk generator gambar waifu yang lucu-lucu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojsiroj/waifu-generator.git"
+  },
+  "keywords": [
+    "waifu-generator"
+  ],
+  "author": "rojsiroj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rojsiroj/waifu-generator/issues"
+  },
+  "homepage": "https://github.com/rojsiroj/waifu-generator#readme"
+}
