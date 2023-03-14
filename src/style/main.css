@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Anime Inept';
+    src:
+      url('/src/fonts/anime-inept/Anime\ Inept.otf') format('otf');
+  }
+@font-face {
+    font-family: 'Manga';
+    src:
+      url('/src/fonts/manga-temple-family/manga-temple.regular.ttf') format('ttf');
+  }
+
+  /* @layer base {
+      html, body{
+          font-family: 'Manga', 'Anime Inept';
+      }
+  } */
